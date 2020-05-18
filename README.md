@@ -6,7 +6,8 @@ A small module that redirects users away from protected routes to a different ro
 npm install express-login-protection
 ```
 ## Usage
-Passing no options to Login() will result in a default redirect URL of Rick Astley's Never Gonna Give You Up 
+Passing no options to Login() will result in a default redirect URL of Rick Astley's Never Gonna Give You Up
+
 You have been warned >_>
 
 ```
