@@ -1,16 +1,15 @@
 # Express Login Protection
 A small module that redirects users away from protected routes to a different route/link
 
-Original made to redirect spambots/unwanted visitors away from /login /wp-login to Rick Astley's Never Gonna Give You Up
-See it in action [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 ## Install
 ```
 npm install express-login-protection
 ```
 ## Usage
+Passing no options to Login() will result in a default redirect URL of Rick Astley's Never Gonna Give You U ( You have been warned :) )
+
 ```
-var login = require('./middleware/login-protection');
+var login = require('./node_modules/login-protection');
 
 //Pass an array of URLs to protect and an url to redirect to.
 app.use(login({
