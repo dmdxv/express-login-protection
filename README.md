@@ -21,4 +21,4 @@ app.use(login({
 ## Inspiration
 ![Tweet by @LiamHammett](https://pbs.twimg.com/media/EX_qw2vWsAE_1z7?format=jpg&name=large)
 
-Tweet by [@LiamHammett]([https://twitter.com/LiamHammett/status/1260984553570570240](https://twitter.com/LiamHammett/status/1260984553570570240))
+Tweet by [@LiamHammett](https://twitter.com/LiamHammett/status/1260984553570570240](https://twitter.com/LiamHammett/status/1260984553570570240)
