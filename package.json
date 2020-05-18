@@ -1,0 +1,25 @@
+{
+  "name": "express-login-protection",
+  "version": "1.0.2",
+  "description": "Redirects users from a protected URL (such as /login) to a different route/link",
+  "main": "login-protection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmdxv/express-login-protection.git"
+  },
+  "keywords": [
+    "express",
+    "login",
+    "user",
+    "auth"
+  ],
+  "author": "Max Diamond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmdxv/express-login-protection/issues"
+  },
+  "homepage": "https://github.com/dmdxv/express-login-protection#readme"
+}
